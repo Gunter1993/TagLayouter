@@ -1,0 +1,16 @@
+/.idea/copyright/
+/.idea/dictionaries/
+/.idea/libraries/
+/.idea/*.xml
+/.idea/.name
+/build/
+/app/build/
+/tag-layouter/build/
+/.gradle/
+/app/src/test/
+/tag-layouter/src/test/
+/local.properties
+
+*.iml
+*.log
+*.class
