@@ -2,7 +2,7 @@
 自定义控件，用于进行标签（TextView及其子类）的排版，支持纵向与横向排版
 
 # 效果图
-<img src="resource/show.gif" width="320px"/>
+![image](resource/show.gif)
 
 ## 添加引用库
 * Android Studio
