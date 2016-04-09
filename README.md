@@ -12,7 +12,7 @@
 	```
 	
 * Eclipse
-	下载最新arr包：[tag-layouter-1_0_0.arr](tag-layouter-1_0_0.arr?raw=true)
+	下载最新arr包：[tag-layouter-1_0_0.arr](tag-layouter-1_0_0.aar?raw=true)
 
 ## 相关属性
 * dist_horizontal - 设置标签之间的横向间距
