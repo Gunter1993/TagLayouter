@@ -80,3 +80,5 @@ autoLayoutContainer.setOnSelectListener(new AutoLayoutContainer.OnSelectListener
     }
 });
 ```
+
+* 另外，如果需要添加其他类型的View，可以使用addChildView(View v)方法
